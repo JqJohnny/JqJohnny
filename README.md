@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JqJohnny or Johnny Quach.
 - 👀 I’m interested in Computer Science!
-- 🌱 I’m currently learning operating systems such as Linux.
+- 🌱 I’m currently learning web development and computer networking!
 - 💞️ I’m looking to learn and produce professional-grade code.
 - 📫 I can be reached at Johnqdx@gmail.com
 - Link to my Website: https://jqjohnny.github.io/JqJohnny/ 
