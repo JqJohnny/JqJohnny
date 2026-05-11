@@ -19,3 +19,5 @@ Recent Computer Science graduate from CSU Fullerton with a 3.72 GPA. I specializ
 
 ---
 **[Email](mailto:Johnqdx@gmail.com)**
+
+ ![Snake animation](https://github.com/JqJohnny/JqJohnny/blob/output/github-contribution-grid-snake.svg)
