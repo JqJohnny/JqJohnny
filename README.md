@@ -1,7 +1,7 @@
 # 💻 Johnny Quach | Software Engineer | Johnqdx@gmail.com
 
 
-Recent Computer Science undergraduate from CSU Fullerton with a 3.72 GPA. I specialize in backend-developemnt and AI integration. However, I am always working to expand my skills and toolkit.
+Recent Computer Science undergraduate from CSU Fullerton with a 3.72 GPA.
 
 ---
 
